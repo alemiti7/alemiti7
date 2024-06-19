@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @alemiti7
-- 👀 I’m interested in phyton
-- 🌱 I’m currently learning tableau, french language, big data, data analysis
-- 💞️ I’m looking to collaborate on tableau, lottery megasena quina prediction, phython, foreign language french, english
-- 📫 How to reach me contact me by alemiti@gmail.com
+- 👋 Olá, Sou @alemiti7
+- 👀 Tenho interesse automação em python e assuntos sobre o sistema SEI
+- 📫 Contate-me por alemiti@gmail.com
 
 <!---
 alemiti7/alemiti7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
